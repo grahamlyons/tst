@@ -22,7 +22,7 @@
   ],
   "license": "BSD",
   "bugs": {
-    "url": "https://github.com/grahamlyons/tst/issues"
+    "url": "https://github.com/dfcreative/tst/issues"
   },
   "dependencies": {
     "chalk": "^1.1.1",
