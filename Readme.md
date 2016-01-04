@@ -1,4 +1,5 @@
 # tst
+**Deprecated:** _This code is no longer published on npm._
 
 A CommonJS module exporting a function for running tests.
 
